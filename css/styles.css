@@ -58,7 +58,14 @@ font-family: var(--second-family);
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
-        color: var(--slate);}
+        color: var(--slate);
+    }
+    .email {
+        color: var(--slate);
+    }
+    .phone {
+        color: var(--slate);
+    }
 
 li  a:hover, li a:focus {
     color: var(--ocean);
