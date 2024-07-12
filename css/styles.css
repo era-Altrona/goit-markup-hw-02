@@ -20,12 +20,7 @@ body {
       
         --second-family: "Raleway", sans-serif;
     }
-        h1,
-        h2,
-        h3 {
-           color: var(--navy-blue);
-    
-        }
+        
 a {
 text-decoration: none;
 }
