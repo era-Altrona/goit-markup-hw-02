@@ -147,6 +147,9 @@ p {
 .our-team {
     background-color: var(--cloud);
 }
+.list-team {
+    background-color: var(--white);
+}
 
 h2 {
     text-transform: capitalize;
