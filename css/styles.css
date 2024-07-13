@@ -60,11 +60,11 @@ font-family: var(--second-family);
         letter-spacing: 0.02em;
         color: var(--slate);
     }
-    .addres-contact {
+    .address-contact {
         color: var(--slate);
     }
 
-li  a:hover, li a:focus {
+ a:hover, a:focus {
     color: var(--ocean);
 }
 
@@ -186,6 +186,9 @@ font-family: var(--font-family);
         letter-spacing: 0.02em;
         text-align: center;
         color: var(--navy-blue);
+}
+.list-portfolio {
+    background-color: var(--white);
 }
 .footer {
     background-color: var(--navy-blue);
