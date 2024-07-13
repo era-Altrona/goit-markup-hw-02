@@ -60,10 +60,7 @@ font-family: var(--second-family);
         letter-spacing: 0.02em;
         color: var(--slate);
     }
-    .email {
-        color: var(--slate);
-    }
-    .phone {
+    .addres-contact {
         color: var(--slate);
     }
 
@@ -84,6 +81,7 @@ li  a:hover, li a:focus {
         text-align: center;
         color: var(--white);
 }
+
 .our-team h3 {
     font-family: var(--font-family);
         font-weight: 500;
@@ -149,9 +147,7 @@ p {
 .our-team {
     background-color: var(--cloud);
 }
-.our-team li {
-    background-color: var(--white);
-}
+
 h2 {
     text-transform: capitalize;
 font-family: var(--font-family);
@@ -170,6 +166,7 @@ font-family: var(--font-family);
         letter-spacing: 0.02em;
         text-align: center;
         color: var(--navy-blue);
+        background-color: var(--white);
 }
 .position {
     font-family: var(--font-family);
@@ -179,6 +176,7 @@ font-family: var(--font-family);
         letter-spacing: 0.02em;
         text-align: center;
         color: var(--slate);
+        background-color: var(--white);
 }
 .our-portfolio-title {
     font-family: var(--font-family);
