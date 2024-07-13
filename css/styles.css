@@ -118,7 +118,9 @@ li  a:hover, li a:focus {
 ul {
     list-style-type: none;
 }
-.title-img {
+
+.title-img { 
+    text-transform: capitalize;
         font-family: var(--font-family);
         font-weight: 500;
         font-size: 20px;
@@ -151,6 +153,7 @@ p {
     background-color: var(--white);
 }
 h2 {
+    text-transform: capitalize;
 font-family: var(--font-family);
     font-weight: 700;
     font-size: 36px;
